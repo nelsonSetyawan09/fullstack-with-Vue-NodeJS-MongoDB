@@ -1,10 +1,29 @@
-Membuat Fullstack Web dengan JavaScript
+# smoothies
 
+## Project setup
+```
+npm install
+```
 
-Dimana:
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-	1. Frontend dengan VueJS
-	
-	2. Backend dengan NodeJS/Express
-	
-	3. Database dengan MongoDB/Mongoose
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
